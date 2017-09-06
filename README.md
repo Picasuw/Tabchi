@@ -1,4 +1,4 @@
 ### Developers
 [Mmd](https://telegram.me/Debug3r)
-### channel
+### Channel
 [Picasuw](https://telegram.me/Picasuw)
